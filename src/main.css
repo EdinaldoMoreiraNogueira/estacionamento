@@ -1,0 +1,52 @@
+body {
+    box-sizing: border-box;
+    padding: 0;
+    margin: auto;
+    background-color: aqua;
+
+}
+
+div {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 20px;
+    margin-left: 50px;
+}
+
+h2 {
+
+    color: blue;
+    margin-bottom: 50px;
+}
+
+table {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 20px;
+    margin-left: 50px;
+}
+
+.veiculo {
+    padding-right: 20px;
+    font-weight: normal;
+}
+
+.placa {
+    padding-right: 20px;
+    font-weight: normal;
+}
+
+.entrada {
+    padding-right: 20px;
+    font-weight: normal;
+}
+
+.acoes {
+    padding-right: 20px;
+    font-weight: normal;
+}
+
+#garage {
+    text-align: center;
+    padding-right: 20px;
+}
